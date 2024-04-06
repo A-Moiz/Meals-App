@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:startColor="#348F50"
+        android:angle="45"
+        android:endColor="#56B4D3"/>
+    </shape>
+
+
+<!--Gradient 1:-->
+<!--Start colour: #EECDA3-->
+<!--End colour: #EF629F-->
+
+<!--Gradient 2:-->
+<!--Start colour: #c31432-->
+<!--End colour: #240b36-->
+
+<!--Gradient 3:-->
+<!--Start colour: #fc4a1a-->
+<!--End colour: #f7b733-->
+
+<!--Gradient 4:-->
+<!--Start colour: #000428-->
+<!--End colour: #004e92-->
+
+<!--Gradient 5:-->
+<!--Start colour: #642B73-->
+<!--End colour: #C6426E-->
+
+<!--Gradient 6:-->
+<!--Start colour: #1488CC-->
+<!--End colour: #2B32B2-->
+
+<!--Gradient 7:-->
+<!--Start colour: #0575E6-->
+<!--End colour: #021B79-->
+
+<!--Gradient 8:-->
+<!--Start colour: #00B4DB-->
+<!--End colour: #0083B0-->
+
+<!--Gradient 8:-->
+<!--Start colour: #348F50-->
+<!--End colour: #56B4D3-->
